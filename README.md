@@ -10,7 +10,7 @@ Make your freelancing more efficient by managing leads, proposals, project docum
 
 #### Ruby ~> 2.4
 
-Download and manage via [rbenv](https://github.com/rbenv/rbenv) or RVM(https://rvm.io/)
+Download and manage via [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/)
 
 #### Rails ~> 5.1
 
